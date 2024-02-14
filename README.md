@@ -9,6 +9,7 @@ This is a simple BMI calculator that can track the user's BMI and could give the
   - hexcolor
   - circular_seek_bar 
   - flutter_screenutil
+  - flutter_bloc
 
   
 ## Technologies Used 
